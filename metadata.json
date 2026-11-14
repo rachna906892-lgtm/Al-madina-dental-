@@ -1,0 +1,6 @@
+{
+  "name": "Al Madina Dental",
+  "description": "Official clinic portal for Al Madina Dental Clinic & Dr. Saba in Bareilly — painless RCT, tooth extraction, hygiene standards, patient reviews, hours, and appointment requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

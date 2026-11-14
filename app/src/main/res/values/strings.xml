@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Al Madina Dental</string>
+    <string name="clinic_full_name">Al Madina Dental Clinic</string>
+    <string name="clinic_tagline">Gentle, Hygienic &amp; Painless Dental Care</string>
+    <string name="clinic_location_short">Khushboo Enclave, Bareilly</string>
+    <string name="clinic_full_address">Main market, Jhadhjhooda Mazaar, Faiq Enclave Main Rd, Khushboo Enclave, Bareilly, Uttar Pradesh 243006</string>
+    <string name="clinic_phone">089370 79471</string>
+    <string name="contact_us_title">Contact Us</string>
+    <string name="cta_call_now">Call Now</string>
+    <string name="doctor_name">Dr. Saba</string>
+    <string name="doctor_title">Lead Dentist • Gentle &amp; Experienced Female Specialist</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_treatments">Services</string>
+    <string name="nav_doctor">Dr. Saba</string>
+    <string name="nav_visit">Visit &amp; Book</string>
+    <string name="cta_book_visit">Request Visit</string>
+    <string name="cta_directions">Get Directions</string>
+    <string name="cta_copy_address">Copy Address</string>
+    <string name="msg_address_copied">Clinic address copied to clipboard</string>
+    <string name="msg_phone_copied">Phone number copied to clipboard</string>
+    <string name="msg_no_maps_app">No maps app found to open directions</string>
+    <string name="msg_no_dialer_app">No phone app found to place the call</string>
+    <string name="error_enter_name">Please enter the patient name</string>
+    <string name="error_enter_phone">Please enter a valid 10-digit phone number</string>
+</resources>
